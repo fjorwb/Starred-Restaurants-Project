@@ -4,9 +4,18 @@
   font-family: 'Montserrat', sans-serif;
 }
 
-.column{
+.column1{
   width: 50%;
   float: left;
+  margin-right: 20px;
+  padding: 0px 20px;
+}
+
+.column2{
+  width: 50%;
+  float: left;
+  margin-right: 20px;
+  padding: 0px 20px;
 }
 
 h1, h2{
@@ -23,7 +32,11 @@ p{
 
 ul{
   list-style: none;
-  padding: 0px;
+  padding: 0px 20px;
+}
+
+li {
+  font-size: 30px;
 }
 
 #restaurants{

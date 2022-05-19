@@ -1,12 +1,13 @@
 .App{
-  width: 70%;
+  width: 50%;
   margin: auto;
   font-family: 'Montserrat', sans-serif;
 }
 
 .column{
-  width: 50%;
+  width: 45%;
   float: left;
+  padding: 0px 20px;
 }
 
 h1, h2{
@@ -19,10 +20,12 @@ h2 {
 
 h3{
   margin: 10px;
+  font-size: 22px;
 }
 
 p{
   margin: 10px 0px;
+  font-size: 16px;
 }
 
 ul{
@@ -46,18 +49,25 @@ ul{
   padding: 12px;
   border-radius: 12px;
   color: #Fff;
+  font-size: 18px;
+  font-weight: 600;
 }
 
 #add-new{
   text-align: center;
-  padding: 10px 0px;
+  padding: 20px 0px;
+  background-color: rgb(38, 15, 15);
+  border-radius: 12px;
+
 }
 
 .starred-restaurant{
   text-align: center;
-  color: white;
-  background-color: #553E4E;
-  padding: 12px;
+  color: rgb(71, 11, 11);
+  background-color: #d8b103;
+  padding: 10px;
   margin-bottom: 12px;
   border-radius: 12px;
+  font-weight: 600;
+  font-size: 16px;
 }

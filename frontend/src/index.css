@@ -5,6 +5,11 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: rgb(81, 39, 14);
+  background-image: url('./img/restaurant_bgnd.jpg');
+  background-size: cover;
+  background-blend-mode: hard-light;
+  color: #fff;
 }
 
 code {
